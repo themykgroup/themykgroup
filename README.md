@@ -1,0 +1,13 @@
+- 👋 Hi, We’re @theMYKgroup
+- 👀 We love the web and digital marketing ...
+- 🌱 We're currently developing our digital products ...
+- 💞️ We're looking to collaborate on social media ...
+
+<!---
+- 📫 How to reach me ...
+--->
+
+<!---
+themykgroup/themykgroup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
